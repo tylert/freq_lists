@@ -5,7 +5,7 @@
     "FrequencyRangeB": "400-480",
     "HighFrequencyA": "174.00000",
     "HighFrequencyB": "480.00000",
-    "LastProgrammedTime": "31-Jul-2020 18:04:29",
+    "LastProgrammedTime": "12-Oct-2020 18:36:47",
     "LowFrequencyA": "136.00000",
     "LowFrequencyB": "400.00000",
     "Model": "MD-UV380"
@@ -6283,14 +6283,24 @@
   "Zones": [
     {
       "ChannelA": [
-        "H1 Echo CRA",
         "H2 XLX196 CRA",
-        "H1 ONT CRA"
+        "H1 ONT CRA",
+        "H1 Echo CRA",
+        "H2 Echo CRA",
+        "L2 XLX196 CRA",
+        "L1 ONT CRA",
+        "L1 Echo CRA",
+        "L2 Echo CRA"
       ],
       "ChannelB": [
-        "H1 Echo CRA",
         "H2 XLX196 CRA",
-        "H1 ONT CRA"
+        "H1 ONT CRA",
+        "H1 Echo CRA",
+        "H2 Echo CRA",
+        "L2 XLX196 CRA",
+        "L1 ONT CRA",
+        "L1 Echo CRA",
+        "L2 Echo CRA"
       ],
       "Name": "DMR Repeaters"
     },
