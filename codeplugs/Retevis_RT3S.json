@@ -21,7 +21,7 @@
       "Bandwidth": "12.5",
       "ChannelMode": "Digital",
       "ColorCode": "1",
-      "ContactName": "TG6 Linked",
+      "ContactName": "Linked TG6",
       "CtcssDecode": "None",
       "CtcssEncode": "None",
       "DCDMSwitch": "Off",
@@ -42,7 +42,7 @@
       "InCallCriteria": "Always",
       "LeaderMS": "Off",
       "LoneWorker": "Off",
-      "Name": "CRA High XLX196",
+      "Name": "H2 XLX196 CRA",
       "Power": "High",
       "Privacy": "None",
       "PrivacyNumber": "1",
@@ -73,7 +73,7 @@
       "Bandwidth": "12.5",
       "ChannelMode": "Digital",
       "ColorCode": "1",
-      "ContactName": "TG3023 ON",
+      "ContactName": "Ontario TG3023",
       "CtcssDecode": "None",
       "CtcssEncode": "None",
       "DCDMSwitch": "Off",
@@ -94,7 +94,7 @@
       "InCallCriteria": "Always",
       "LeaderMS": "Off",
       "LoneWorker": "Off",
-      "Name": "CRA High Ontario",
+      "Name": "H1 ONT CRA",
       "Power": "High",
       "Privacy": "None",
       "PrivacyNumber": "1",
@@ -125,7 +125,7 @@
       "Bandwidth": "12.5",
       "ChannelMode": "Digital",
       "ColorCode": "1",
-      "ContactName": "TG9990 Parrot",
+      "ContactName": "Parrot TG9990",
       "CtcssDecode": "None",
       "CtcssEncode": "None",
       "DCDMSwitch": "Off",
@@ -146,7 +146,7 @@
       "InCallCriteria": "Always",
       "LeaderMS": "Off",
       "LoneWorker": "Off",
-      "Name": "CRA High Parrot1",
+      "Name": "H1 Echo CRA",
       "Power": "High",
       "Privacy": "None",
       "PrivacyNumber": "1",
@@ -177,7 +177,7 @@
       "Bandwidth": "12.5",
       "ChannelMode": "Digital",
       "ColorCode": "1",
-      "ContactName": "TG9990 Parrot",
+      "ContactName": "Parrot TG9990",
       "CtcssDecode": "None",
       "CtcssEncode": "None",
       "DCDMSwitch": "Off",
@@ -198,7 +198,7 @@
       "InCallCriteria": "Always",
       "LeaderMS": "Off",
       "LoneWorker": "Off",
-      "Name": "CRA High Parrot2",
+      "Name": "H2 Echo CRA",
       "Power": "High",
       "Privacy": "None",
       "PrivacyNumber": "1",
@@ -229,7 +229,7 @@
       "Bandwidth": "12.5",
       "ChannelMode": "Digital",
       "ColorCode": "1",
-      "ContactName": "TG6 Linked",
+      "ContactName": "Linked TG6",
       "CtcssDecode": "None",
       "CtcssEncode": "None",
       "DCDMSwitch": "Off",
@@ -250,7 +250,7 @@
       "InCallCriteria": "Always",
       "LeaderMS": "Off",
       "LoneWorker": "Off",
-      "Name": "CRA Low XLX196",
+      "Name": "L2 XLX196 CRA",
       "Power": "Low",
       "Privacy": "None",
       "PrivacyNumber": "1",
@@ -281,7 +281,7 @@
       "Bandwidth": "12.5",
       "ChannelMode": "Digital",
       "ColorCode": "1",
-      "ContactName": "TG3023 ON",
+      "ContactName": "Ontario TG3023",
       "CtcssDecode": "None",
       "CtcssEncode": "None",
       "DCDMSwitch": "Off",
@@ -302,7 +302,7 @@
       "InCallCriteria": "Always",
       "LeaderMS": "Off",
       "LoneWorker": "Off",
-      "Name": "CRA Low Ontario",
+      "Name": "L1 ONT CRA",
       "Power": "Low",
       "Privacy": "None",
       "PrivacyNumber": "1",
@@ -333,7 +333,7 @@
       "Bandwidth": "12.5",
       "ChannelMode": "Digital",
       "ColorCode": "1",
-      "ContactName": "TG9990 Parrot",
+      "ContactName": "Parrot TG9990",
       "CtcssDecode": "None",
       "CtcssEncode": "None",
       "DCDMSwitch": "Off",
@@ -354,7 +354,7 @@
       "InCallCriteria": "Always",
       "LeaderMS": "Off",
       "LoneWorker": "Off",
-      "Name": "CRA Low Parrot1",
+      "Name": "L1 Echo CRA",
       "Power": "Low",
       "Privacy": "None",
       "PrivacyNumber": "1",
@@ -385,7 +385,7 @@
       "Bandwidth": "12.5",
       "ChannelMode": "Digital",
       "ColorCode": "1",
-      "ContactName": "TG9990 Parrot",
+      "ContactName": "Parrot TG9990",
       "CtcssDecode": "None",
       "CtcssEncode": "None",
       "DCDMSwitch": "Off",
@@ -406,7 +406,7 @@
       "InCallCriteria": "Always",
       "LeaderMS": "Off",
       "LoneWorker": "Off",
-      "Name": "CRA Low Parrot2",
+      "Name": "L2 Echo CRA",
       "Power": "Low",
       "Privacy": "None",
       "PrivacyNumber": "1",
@@ -1633,7 +1633,7 @@
       "Bandwidth": "12.5",
       "ChannelMode": "Digital",
       "ColorCode": "1",
-      "ContactName": "TG99 Simplex",
+      "ContactName": "Simplex TG99",
       "CtcssDecode": "None",
       "CtcssEncode": "None",
       "DCDMSwitch": "Off",
@@ -1685,7 +1685,7 @@
       "Bandwidth": "12.5",
       "ChannelMode": "Digital",
       "ColorCode": "1",
-      "ContactName": "TG99 Simplex",
+      "ContactName": "Simplex TG99",
       "CtcssDecode": "None",
       "CtcssEncode": "None",
       "DCDMSwitch": "Off",
@@ -1737,7 +1737,7 @@
       "Bandwidth": "12.5",
       "ChannelMode": "Digital",
       "ColorCode": "1",
-      "ContactName": "TG99 Simplex",
+      "ContactName": "Simplex TG99",
       "CtcssDecode": "None",
       "CtcssEncode": "None",
       "DCDMSwitch": "Off",
@@ -1789,7 +1789,7 @@
       "Bandwidth": "12.5",
       "ChannelMode": "Digital",
       "ColorCode": "1",
-      "ContactName": "TG99 Simplex",
+      "ContactName": "Simplex TG99",
       "CtcssDecode": "None",
       "CtcssEncode": "None",
       "DCDMSwitch": "Off",
@@ -1841,7 +1841,7 @@
       "Bandwidth": "12.5",
       "ChannelMode": "Digital",
       "ColorCode": "1",
-      "ContactName": "TG99 Simplex",
+      "ContactName": "Simplex TG99",
       "CtcssDecode": "None",
       "CtcssEncode": "None",
       "DCDMSwitch": "Off",
@@ -1893,7 +1893,7 @@
       "Bandwidth": "12.5",
       "ChannelMode": "Digital",
       "ColorCode": "1",
-      "ContactName": "TG99 Simplex",
+      "ContactName": "Simplex TG99",
       "CtcssDecode": "None",
       "CtcssEncode": "None",
       "DCDMSwitch": "Off",
@@ -5948,25 +5948,25 @@
       "CallID": "9990",
       "CallReceiveTone": "No",
       "CallType": "Private",
-      "Name": "TG9990 Parrot"
+      "Name": "Parrot TG9990"
     },
     {
       "CallID": "3023",
       "CallReceiveTone": "No",
       "CallType": "Group",
-      "Name": "TG3023 ON"
+      "Name": "Ontario TG3023"
     },
     {
       "CallID": "99",
       "CallReceiveTone": "No",
       "CallType": "Group",
-      "Name": "TG99 Simplex"
+      "Name": "Simplex TG99"
     },
     {
       "CallID": "6",
       "CallReceiveTone": "No",
       "CallType": "Group",
-      "Name": "TG6 Linked"
+      "Name": "Linked TG6"
     }
   ],
   "GPSSystems": [
@@ -6101,9 +6101,9 @@
   "GroupLists": [
     {
       "Contact": [
-        "TG3023 ON",
-        "TG99 Simplex",
-        "TG6 Linked"
+        "Ontario TG3023",
+        "Simplex TG99",
+        "Linked TG6"
       ],
       "Name": "GroupList1"
     }
@@ -6172,7 +6172,7 @@
   ],
   "OneTouch": [
     {
-      "Call": "TG99 Simplex",
+      "Call": "Simplex TG99",
       "CallType": "Text Message",
       "DTMF": "DTMF-2",
       "Encode": "=INVALID=",
@@ -6180,7 +6180,7 @@
       "TextMessage": "Hello"
     },
     {
-      "Call": "TG99 Simplex",
+      "Call": "Simplex TG99",
       "CallType": "Text Message",
       "DTMF": "DTMF-2",
       "Encode": "=INVALID=",
@@ -6188,7 +6188,7 @@
       "TextMessage": "Hello"
     },
     {
-      "Call": "TG99 Simplex",
+      "Call": "Simplex TG99",
       "CallType": "Text Message",
       "DTMF": "DTMF-2",
       "Encode": "=INVALID=",
@@ -6196,7 +6196,7 @@
       "TextMessage": "Hello"
     },
     {
-      "Call": "TG99 Simplex",
+      "Call": "Simplex TG99",
       "CallType": "Text Message",
       "DTMF": "DTMF-2",
       "Encode": "=INVALID=",
@@ -6204,7 +6204,7 @@
       "TextMessage": "Hello"
     },
     {
-      "Call": "TG99 Simplex",
+      "Call": "Simplex TG99",
       "CallType": "Text Message",
       "DTMF": "DTMF-2",
       "Encode": "=INVALID=",
@@ -6212,7 +6212,7 @@
       "TextMessage": "Hello"
     },
     {
-      "Call": "TG99 Simplex",
+      "Call": "Simplex TG99",
       "CallType": "Text Message",
       "DTMF": "DTMF-2",
       "Encode": "=INVALID=",
@@ -6283,14 +6283,14 @@
   "Zones": [
     {
       "ChannelA": [
-        "CRA High Parrot1",
-        "CRA High XLX196",
-        "CRA High Ontario"
+        "H1 Echo CRA",
+        "H2 XLX196 CRA",
+        "H1 ONT CRA"
       ],
       "ChannelB": [
-        "CRA High Parrot1",
-        "CRA High XLX196",
-        "CRA High Ontario"
+        "H1 Echo CRA",
+        "H2 XLX196 CRA",
+        "H1 ONT CRA"
       ],
       "Name": "DMR Repeaters"
     },
